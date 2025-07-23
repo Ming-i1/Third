@@ -1,0 +1,4 @@
+题目格式：
+1+1=?|2
+HTML的全称是？|HyperText Markup Language
+CSS用于什么？|美化网页样式
